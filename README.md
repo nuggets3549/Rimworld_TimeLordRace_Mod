@@ -19,7 +19,7 @@ Time Lords can comfortably survive at -120 degrees to 850.
 
 Time Lords have a base intelligence of 10.
 
-Time Lords have the Regeneration gene from the Time Lord Genetics (https://steamcommunity.com/sharedfiles/filedetails/?id=2069067588).
+Time Lords have the Regeneration gene from Time Lord Genetics (https://steamcommunity.com/sharedfiles/filedetails/?id=2069067588).
 
 Time Lords have a PawnKind called Time Colonists - this acts identically to the human PawnKind colonist.
 
