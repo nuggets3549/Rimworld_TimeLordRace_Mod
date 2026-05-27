@@ -1,8 +1,6 @@
 # Rimworld_TimeLordRace_Mod
 A mod that adds the Time Lords from Doctor Who as a race!
 
-![Screenshot of rimworld showcasing the Time Lord race hediff.](https://files.catbox.moe/yk153d.png)
-
 # IMPORTANT:
 
 This mod requires:
@@ -16,6 +14,8 @@ Time Lord Genetics (https://steamcommunity.com/sharedfiles/filedetails/?id=20690
 ### RIMWORLD GAME VERSION
 
 1.6
+
+![Screenshot of rimworld showcasing the Time Lord race hediff.](https://files.catbox.moe/waijta.png)
 
 ### FEATURES:
 
