@@ -11,6 +11,8 @@ Big and Small - Framework (https://steamcommunity.com/workshop/filedetails/?id=2
 
 Time Lord Genetics (https://steamcommunity.com/sharedfiles/filedetails/?id=2069067588)
 
+![Screenshot of rimworld showcasing the Time Lord race hediff.](https://files.catbox.moe/xw7psu.png)
+
 ### RIMWORLD GAME VERSION
 
 1.6
