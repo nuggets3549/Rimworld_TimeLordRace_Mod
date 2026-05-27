@@ -27,6 +27,10 @@ Time Lords have the Regeneration gene from Time Lord Genetics (https://steamcomm
 
 Time Lords have a PawnKind called Time Colonists - this acts identically to the human PawnKind colonist.
 
+Time Lords have a life expectancy of 1000
+
+Time Lords have a market value of 6500
+
 ### FUTURE PLANS:
 
 New Time Lord PawnKind called The Doctor - Time Lords with this PawnKind will have a higher base medical skill and be incapable of violence.
