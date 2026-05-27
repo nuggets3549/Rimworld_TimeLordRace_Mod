@@ -1,7 +1,7 @@
 # Rimworld_TimeLordRace_Mod
 A mod that adds the Time Lords from Doctor Who as a race!
 
-IMPORTANT:
+# IMPORTANT:
 
 This mod requires:
 
@@ -11,7 +11,11 @@ Big and Small - Framework (https://steamcommunity.com/workshop/filedetails/?id=2
 
 Time Lord Genetics (https://steamcommunity.com/sharedfiles/filedetails/?id=2069067588)
 
-FEATURES:
+### RIMWORLD GAME VERSION
+
+1.6
+
+### FEATURES:
 
 Time Lords have 2 Hearts.
 
@@ -23,6 +27,6 @@ Time Lords have the Regeneration gene from Time Lord Genetics (https://steamcomm
 
 Time Lords have a PawnKind called Time Colonists - this acts identically to the human PawnKind colonist.
 
-FUTURE PLANS:
+### FUTURE PLANS:
 
 New Time Lord PawnKind called The Doctor - Time Lords with this PawnKind will have a higher base medical skill and be incapable of violence.
