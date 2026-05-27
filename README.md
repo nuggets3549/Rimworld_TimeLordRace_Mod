@@ -33,6 +33,8 @@ Time Lords have a life expectancy of 1000
 
 Time Lords have a market value of 6500
 
+Time Lords gain immunity to disease and illness two times faster than a human.
+
 ### FUTURE PLANS:
 
 New Time Lord PawnKind called The Doctor - Time Lords with this PawnKind will have a higher base medical skill and be incapable of violence.
