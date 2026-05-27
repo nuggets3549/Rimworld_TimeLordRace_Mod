@@ -14,9 +14,7 @@ Time Lord Genetics (https://steamcommunity.com/sharedfiles/filedetails/?id=20690
 ### RIMWORLD GAME VERSION
 
 1.6
-
-![Screenshot of rimworld showcasing the Time Lord race hediff.](https://files.catbox.moe/waijta.png)
-
+![Mod Title Card](https://files.catbox.moe/w98xtb.png)
 ### FEATURES:
 
 Time Lords have 2 Hearts.
@@ -34,6 +32,8 @@ Time Lords have a life expectancy of 1000
 Time Lords have a market value of 6500
 
 Time Lords gain immunity to disease and illness two times faster than a human.
+
+![Screenshot of rimworld showcasing the Time Lord race hediff.](https://files.catbox.moe/waijta.png)
 
 ### FUTURE PLANS:
 
