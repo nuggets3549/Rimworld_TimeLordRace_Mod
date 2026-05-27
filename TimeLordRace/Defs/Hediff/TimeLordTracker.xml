@@ -1,0 +1,59 @@
+﻿<Defs>
+  <HediffDef>
+    <defName>TimeLordTracker</defName>
+    <description>An ancient, highly advanced alien race from the planet Gallifrey, able to regenerate upon death.</description>
+    <label>Time Lord</label>
+
+    <!-- Include this class for best behaviour. -->
+    <hediffClass>BigAndSmall.RaceTracker</hediffClass>
+    <defaultLabelColor>(0.5, 0.5, 1.0)</defaultLabelColor>
+
+    <!-- Make sure healer mech serums don't decide to remove the tracker. -->
+    <isBad>false</isBad>
+    <everCurableByItem>false</everCurableByItem>
+
+    <initialSeverity>1</initialSeverity>
+
+    <stages>
+      <li>
+          <statFactors>
+            <ImmunityGainSpeed>2</ImmunityGainSpeed>
+          </statFactors>
+      </li>
+    </stages>
+
+    <comps>
+      <!--
+      This comp inherits from one made for shape-shifting, but it has some useful settings for races.
+       
+      For more of its properties check out CompProperties_ColorAndFur.
+      -->
+      <li Class="BigAndSmall.CompProperties_Race">
+        <!-- Determines of genes or the like can change the race of the creature. -->
+        <canSwapAwayFrom>true</canSwapAwayFrom>
+      </li>
+		</comps>
+
+    <modExtensions>
+      <li Class="BigAndSmall.PawnExtension">
+        <geneTagFilters>
+          <blacklist>
+          </blacklist>
+        </geneTagFilters>
+        <immutableEndogenes>
+          <!-- Perhaps Perhaps you find the idea of bearded neko-harpies absolutely unacceptable? If so you can force a gene, 
+           and prevent any other xenogenes or endogenes from overriding it. -->
+          <li MayRequire="Ludeon.Rimworld.Biotech">RegenGene</li>
+        </immutableEndogenes>
+        <geneFilters>
+          <blacklist>
+          </blacklist>
+        </geneFilters>
+        
+        <aptitudes>
+          <Intellectual>10</Intellectual>
+        </aptitudes>
+      </li>
+    </modExtensions>
+  </HediffDef>
+</Defs>
